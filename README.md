@@ -1,2 +1,3 @@
 # hello-world
-my first step with GitHub
+Hi! Friends
+I am here to learn and share everything with you!
